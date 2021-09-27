@@ -5,6 +5,10 @@
     "description": "Dark theme inspired by the Norwegian island of Senja",
     "version": "0.0.3",
     "license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aeschli/senja-dark"
+	},
     "engines": {
         "vscode": "^1.60.0"
     },
