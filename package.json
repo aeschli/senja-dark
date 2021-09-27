@@ -1,0 +1,23 @@
+{
+    "name": "senja-dark",
+    "displayName": "Senja Dark",
+    "publisher": "aeschli",
+    "description": "Dark theme inspired by the Norwegian island of Senja",
+    "version": "0.0.1",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Senja Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Senja Dark-color-theme.json"
+            }
+        ]
+    }
+}
