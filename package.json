@@ -3,12 +3,12 @@
     "displayName": "Senja Dark",
     "publisher": "aeschli",
     "description": "Dark theme inspired by the Norwegian island of Senja",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/aeschli/senja-dark"
-	},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aeschli/senja-dark"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -16,12 +16,12 @@
         "Themes"
     ],
     "badges": [
-		{
-			"url": "https://img.shields.io/badge/preview%20in-vscode.dev-blue",
-			"href": "https://vscode.dev/theme/aeschli.senja-dark",
-			"description": "Preview the theme in vscode.dev"
-		}
-	],
+        {
+            "url": "https://img.shields.io/badge/preview%20in-vscode.dev-blue",
+            "href": "https://vscode.dev/theme/aeschli.senja-dark",
+            "description": "Preview the theme in vscode.dev"
+        }
+    ],
     "contributes": {
         "themes": [
             {
