@@ -6,6 +6,4 @@
 
 A [Dark plus material](https://github.com/vangware/dark-plus-material) inspired theme. All credits go to [@lukeshiru](https://github.com/lukeshiru).
 
-![Preview](https://github.com/aeschli/senja-dark/raw/main/image.png)qeq
-
-ertertet
+![Preview](https://github.com/aeschli/senja-dark/raw/main/image.png)
